@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" width="220">
+  <img src="./assets/LogoV2Definitivo.png" width="220">
 </p>
 
 <h1 align="center">Yepar Solutions</h1>
